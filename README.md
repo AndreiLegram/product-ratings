@@ -1,8 +1,8 @@
 # Avaliações de Produtos
 Gerenciador de produtos com avaliações.
 
-- Frontend: Angular
 - Backend: Lumen
+- Frontend: Angular
 
 ## Desenvolvido por
 Andrei Legramante e Vitor Araújo Lengovski
