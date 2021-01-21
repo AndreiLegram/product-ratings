@@ -5,5 +5,4 @@ Gerenciador de produtos com avaliações.
 - Backend: Lumen
 
 ## Desenvolvido por
-Andrei Legramante
-Vitor Araújo Lengovski
+Andrei Legramante e Vitor Araújo Lengovski
